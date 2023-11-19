@@ -1,1 +1,1 @@
-# Digit-Generation-with-Generative-Adversarial-Network-GAN-
+# Digit-Generation-with-Generative-Adversarial-Network-GAN
